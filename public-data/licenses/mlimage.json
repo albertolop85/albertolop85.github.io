@@ -1,0 +1,33 @@
+[
+  {
+    "usuario" : "Desarrollador",
+    "licencias" : [
+      {
+        "descripcion" : "Licencia de Desarrollador",
+        "key" : "b5874f56-bd50-4e52-8e27-3bcbb385b087-bfebfbff000806c1-4c50a013-9yd9bc3cncmk0012d0e7c"
+      }
+    ]
+  },
+  {
+    "usuario" : "Cliente 1",
+    "licencias" : [
+      {
+        "descripcion" : "Licencia 1 de Cliente 1",
+        "key" : "a"
+      },
+      {
+        "descripcion" : "Licencia 2 de Cliente 1",
+        "key" : "b"
+      }
+    ]
+  },
+  {
+    "usuario" : "Cliente 2",
+    "licencias" : [
+      {
+        "descripcion" : "Licencia 1 de Cliente 2",
+        "key" : "c"
+      }
+    ]
+  }
+]
